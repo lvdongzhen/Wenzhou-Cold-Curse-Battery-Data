@@ -7,8 +7,8 @@ The related data and code are accessible under the Creative Commons Attribution-
 GitHub: https://github.com/lvdongzhen   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu   <br>
-Onedrive: 待更新   <br>
-Torrent(种子下载)：待更新  <br>
+Onedrive: Updating   <br>
+Torrent(种子下载)：Updating  <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Cold Curse Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. If necessary, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details.
