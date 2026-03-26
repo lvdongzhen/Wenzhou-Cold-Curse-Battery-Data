@@ -1,6 +1,7 @@
 # License of Wenzhou Cold Curse Battery Data  
 
 Please name the data source as "Wenzhou Cold Curse Battery Data" and cite the source article: Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, [https://doi.org/10.1016/j.joule.2026.102352](https://doi.org/10.1016/j.joule.2026.102352)
+**Online running available at ( https://codeocean.com/capsule/7033576/tree )**
 
 If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “*Wenzhou **Randomized** Battery Data*”, “*Wenzhou **Cold Curse** Battery Data*”, “*Wenzhou **Sodium-ion** Battery Degradation Data*”, “*Wenzhou **Pack** Degradation Data*”, “*Wenzhou **Orbital** Degradation Data*” and  “*Wenzhou **Symmetry** Degradation Data*” as appropriate.
 
