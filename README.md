@@ -2,7 +2,7 @@
 
 Please name the data source as "Wenzhou Cold Curse Battery Data" and cite the source article: Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, [https://doi.org/10.1016/j.joule.2026.102352](https://doi.org/10.1016/j.joule.2026.102352)
 
-**Online code running available at ( https://codeocean.com/capsule/7033576/tree )** If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “*Wenzhou **Randomized** Battery Data*”, “*Wenzhou **Cold Curse** Battery Data*”, “*Wenzhou **Sodium-ion** Battery Degradation Data*”, “*Wenzhou **Pack** Degradation Data*”, “*Wenzhou **Orbital** Degradation Data*” and  “*Wenzhou **Symmetry** Degradation Data*” as appropriate.
+**Online code running available at ( https://codeocean.com/capsule/7033576/tree ).** If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “*Wenzhou **Randomized** Battery Data*”, “*Wenzhou **Cold Curse** Battery Data*”, “*Wenzhou **Sodium-ion** Battery Degradation Data*”, “*Wenzhou **Pack** Degradation Data*”, “*Wenzhou **Orbital** Degradation Data*” and  “*Wenzhou **Symmetry** Degradation Data*” as appropriate.
 
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code. 
 
@@ -40,15 +40,16 @@ WeChat ID: LyuDongzhen
 # WZU电池低温魔咒数据的许可协议
 
 ***数据访问和署名***  <br>
-相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU电池低温魔咒数据”，并引用以下来源文章：Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026.  
-
+在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU电池低温魔咒数据”，并引用以下来源文章：Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026.  
+**代码托管运行于在线平台 ( https://codeocean.com/capsule/7033576/tree ).** 如果使用其他温州系列电池退化数据集，请确保适当引用这些数据集，包括但不限于“*WZU**随机**电池退化数据*”、“*WZU电池**低温魔咒**数据*”、 “*WZU**钠离子**电池退化数据*”、“*WZU**成组**电池退化数据*”、“*WZU**轨道式**电池退化数据*”以及“*WZU**镜像**电池退化数据*”。  <br>
+相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。
 
 ***数据存储位置***  <br>
 GitHub ( https://github.com/lvdongzhen )   <br>
 ResearchGate ( https://www.researchgate.net/profile/Dongzhen-Lyu )  <br>
 X_MOL个人主页 ( https://www.x-mol.com/groups/DongzhenLyu/news )  <br>
 OneDrive ( 微软云盘 ) 和Torrent ( 种子下载 ) 将在 X-MOL个人主页 ( https://www.x-mol.com/groups/DongzhenLyu/news ) 中更新。  <br>
-如果使用其他温州系列电池退化数据集，请确保适当引用这些数据集，包括但不限于“*WZU**随机**电池退化数据*”、“*WZU电池**低温魔咒**数据*”、 “*WZU**钠离子**电池退化数据*”、“*WZU**成组**电池退化数据*”、“*WZU**轨道式**电池退化数据*”以及“*WZU**镜像**电池退化数据*”。  <br>
+
 
 请关注微信官方公众号 "***电池退化数据集***" 以跟进后续更多研究进展。  <br>
 
