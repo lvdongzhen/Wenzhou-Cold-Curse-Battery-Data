@@ -41,7 +41,7 @@ WeChat ID: LyuDongzhen
 # WZU电池低温魔咒数据的许可协议
 
 ***数据访问和署名***  <br>
-在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU电池低温魔咒数据”，并引用以下来源文章：Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026.    <br>
+在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU电池低温魔咒数据”，并引用以下来源文章：Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026. (https://doi.org/10.1016/j.joule.2026.102352) <br>
 
 请关注微信官方公众号 "***电池退化数据集***" 以跟进后续更多研究进展。 **代码托管运行于在线平台 https://codeocean.com/capsule/7033576/tree**   <br>
 
