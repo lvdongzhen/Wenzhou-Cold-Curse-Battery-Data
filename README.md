@@ -1,3 +1,4 @@
+***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
 # License of Wenzhou Cold Curse Battery Data  
 
 Please name the data source as "Wenzhou Cold Curse Battery Data" and cite the source article: Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, (https://doi.org/10.1016/j.joule.2026.102352)  <br>
