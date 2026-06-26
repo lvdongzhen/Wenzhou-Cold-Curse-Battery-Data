@@ -17,6 +17,7 @@ Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An A
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
 
 ***Data Storage Locations for International Use***  <br>
+Kaggle at: https://www.kaggle.com/dongzhenlyu/datasets <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
 ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
 X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
@@ -65,6 +66,7 @@ Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An A
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
 
 ***数据存储位置***  <br>
+Kaggle at: https://www.kaggle.com/dongzhenlyu/datasets <br>
 GitHub at ( https://github.com/lvdongzhen ) <br>
 ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
 X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
