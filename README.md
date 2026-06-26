@@ -1,4 +1,4 @@
-***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
+***Available all at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
 # License of Wenzhou Cold Curse Battery Data  
 
 Please name the data source as "Wenzhou Cold Curse Battery Data" and cite the source article: Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, (https://doi.org/10.1016/j.joule.2026.102352)  <br>
@@ -8,12 +8,12 @@ Please follow the official account "***电池退化数据集***" on the ***WeCha
 If other Wenzhou series battery degradation datasets are utilized, please ensure appropriate citation of these datasets, including but not limited to “*Wenzhou **Randomized** Battery Data*”, “*Wenzhou **Cold Curse** Battery Data*”, “*Wenzhou **Sodium-ion** Battery Degradation Data*”, “*Wenzhou **Pack** Degradation Data*”, “*Wenzhou **Orbital** Degradation Data*” and  “*Wenzhou **Symmetry** Degradation Data*” as appropriate. All available at ( https://github.com/lvdongzhen ) <br>
 
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code:   <br>
+Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
+Dongzhen Lyu, et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. IEEE Transactions on Industrial Electronics, 2026.   <br>
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Variable Operating Condition. IEEE Transactions on Industrial Informatics, 2026.   <br>
+Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
 Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science, 2024.   <br>
 Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
-Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
-Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
-
-Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
 
 ***Data Storage Locations for International Use***  <br>
@@ -56,12 +56,12 @@ WeChat ID: LyuDongzhen
 如果使用其他温州系列电池退化数据集，请确保适当引用这些数据集，包括但不限于“*WZU**随机**电池退化数据*”、“*WZU电池**低温魔咒**数据*”、 “*WZU**钠离子**电池退化数据*”、“*WZU**成组**电池退化数据*”、“*WZU**轨道式**电池退化数据*”以及“*WZU**镜像**电池退化数据*”。 可访问获取( https://github.com/lvdongzhen ) <br>
 
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。请务必引用相关来源文章:   <br>
+Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
+Dongzhen Lyu, et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. IEEE Transactions on Industrial Electronics, 2026.   <br>
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Variable Operating Condition. IEEE Transactions on Industrial Informatics, 2026.   <br>
+Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
 Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science, 2024.   <br>
 Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
-Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
-Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
-
-Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
 
 ***数据存储位置***  <br>
